@@ -4,4 +4,4 @@ metadata:
   name: gemini-config
   namespace: gemini-namespace
 data:
-  NEXTAUTH_URL: https://98.81.127.107.nip.io # Enter your NextAuth URL here(Domain name/URL)
+  NEXTAUTH_URL: https://107.21.149.93.nip.io # Enter your NextAuth URL here(Domain name/URL)
